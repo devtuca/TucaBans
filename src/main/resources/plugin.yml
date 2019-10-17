@@ -1,0 +1,4 @@
+name: TucaBans
+version: ${project.version}
+main: com.tuca.Tuca
+api-version: 1.13
